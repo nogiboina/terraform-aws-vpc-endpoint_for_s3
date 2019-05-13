@@ -1,0 +1,1 @@
+# terraform-aws-vpc-endpoint_for_s3
