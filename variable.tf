@@ -51,6 +51,3 @@ variable "bucket_name" {
   type = "string"
   default = "serviceappsbucket"
 }
-variable "key_name" {
-  default = "mykey"
-}
